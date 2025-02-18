@@ -1,0 +1,11 @@
+logica\Clases\Tienda.class
+logica\Excepciones\MascotaNoDisponible.class
+logica\Clases\Producto.class
+logica\Excepciones\ProductoNoDisponible.class
+igu\Ventana$1.class
+logica\Clases\Cliente.class
+logica\Clases\Inventario.class
+logica\Main.class
+igu\Ventana.class
+igu\Ventana$2.class
+logica\Clases\Mascota.class
